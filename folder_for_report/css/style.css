@@ -1,0 +1,62 @@
+html {
+       background: url(../images/bg_image.jpg) no-repeat center center fixed;
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size: cover;
+       background-size: cover;
+}
+table {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 14px;
+  max-width: 100%;
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+  border-top: 7px solid #9baff1;
+  border-bottom: 7px solid #9baff1;
+}
+th {
+  font-size: 13px;
+  font-weight: normal;
+  background: #e8edff;
+  border-right: 1px solid #9baff1;
+  border-left: 1px solid #9baff1;
+  color: #039;
+  padding: 2px;
+}
+td {
+  background: #e8edff;
+  border-right: 1px solid #aabcfe;
+  border-left: 1px solid #aabcfe;
+  color: #000000
+  padding: 2px;
+}
+form {
+font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 18px;
+  padding: 20px;
+	
+}
+.input,button {
+ font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+ font-size: 16px;
+ font-weight:bold;
+ width:259px;
+ height:30px;
+ background:#efefef;
+ border:1px solid #dedede;
+ padding:0px;
+ margin-top:3px;
+ font-size:0.9em;
+ color:#3a3a3a;
+}
+.test{
+	font-size: 18px;
+	padding:4px;
+	width:270px;
+    height:35px;
+}
+label{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+ font-size: 20px;
+}
